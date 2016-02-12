@@ -19,7 +19,8 @@ import android.widget.TextView;
  */
 public class SwipeAdapter extends PagerAdapter {
     //String que contiene las imagenes que iremos recojiendo y que se alojan en drawables
-    private int[] image_resources = {R.drawable.imagen_0, R.drawable.imagen_1, R.drawable.imagen_2,R.drawable.imagen_3,R.drawable.imagen_4};
+    private int[] image_resources = {R.drawable.imagen_0, R.drawable.imagen_1, R.drawable.imagen_2,
+            R.drawable.imagen_3,R.drawable.imagen_5,R.drawable.imagen_6};
     private Context cnx;
     private LayoutInflater layoutInflater;
 
